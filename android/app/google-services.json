@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90834374504",
+    "project_id": "flutterabcdemo",
+    "storage_bucket": "flutterabcdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90834374504:android:2ce875cc1cde7575a150dd",
+        "android_client_info": {
+          "package_name": "com.example.fire_base_by_pankaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90834374504-4obshus7o1o9h8fj8d1og2fjshs4r110.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcxUWPWIzWZcxNn_Wrna8CtTeiaMrssg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90834374504-4obshus7o1o9h8fj8d1og2fjshs4r110.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
